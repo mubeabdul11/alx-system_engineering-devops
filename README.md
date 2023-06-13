@@ -1,3 +1,1 @@
-# alx-system_engineering-devops 
-# alx-system_engineering-devops1
-# alx-system_engineering-devops1 2
+0x02-shell_redirections
